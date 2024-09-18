@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fog" size="2.000000 3.038936" />
+    <ImageTarget name="bergantim" size="2.000000 3.115871" />
+    <ImageTarget name="corveta" size="2.000000 3.065134" />
+    <ImageTarget name="path" size="2.000000 3.062201" />
+    <ImageTarget name="rocks" size="2.000000 3.048860" />
+    <ImageTarget name="sea" size="2.000000 2.091379" />
+  </Tracking>
+</QCARConfig>
