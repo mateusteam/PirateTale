@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Caixa" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Caixas_assembly" assemblyId="1c0fac3a27e04a1c89063ab1d5516594">
+<Part name="Caixa" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="7.25049e-09 0.000592867 0.010731" rotation="AD: 1 -0.0020713 0.00436865 230.734" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-6.35046e-07 0.000914084 0.0107136" rotation="AD: 0.999778 0.0503339 -0.464365 191.217" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.25.5">
+<ModelTarget name="Caixa" targetId="9e32fd49e9db4492a53033d9bc07af75" version="14.0" toolVersion="10.25.5" bbox="-0.003804 0.000032 -0.002704 0.003804 0.001840 0.002702" previewImage="9e32fd49e9db4492a53033d9bc07af75_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Caixas_assembly" assemblyId="1c0fac3a27e04a1c89063ab1d5516594">
+<Part name="Caixa" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="7.25049e-09 0.000592867 0.010731" rotation="AD: 1 -0.0020713 0.00436865 230.734" image="Caixa_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-6.35046e-07 0.000914084 0.0107136" rotation="AD: 0.999778 0.0503339 -0.464365 191.217" image="Caixa_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
